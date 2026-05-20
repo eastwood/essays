@@ -6,7 +6,7 @@
 
 ---
 
-There has always been two truths in software engineering.
+There have always been two truths in software engineering.
 
 The first is abstraction. Since forever, we have built tools, and more imporantly, tools with tools. 
 Assembly gave way to C, C gave way to Python, bare metal gave way to cloud. Each layer let us stop thinking about *how* to express the logic and start thinking at a higher level, perhaps a more simpler one. 
@@ -31,6 +31,4 @@ My Turing test for this is a single question:
 You will have an answer to this. The TPA who understood the business requirements will have an answer too. Though possibly different... 
 But their answers will be grounded in something; an understanding of the world; and AI never will.
 
-Abstraction is powerful precisely because it hides complexity without hiding meaning. AI, at its best, does the same. But meaning still has to come from somewhere.
-
-And I think, it comes from you.
+Abstraction is powerful precisely because it hides complexity without hiding meaning. AI, at its best, does the same. But meaning still has to come from somewhere, hopefully you.
