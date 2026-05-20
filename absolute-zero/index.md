@@ -12,7 +12,7 @@ The first is abstraction. Since forever, we have built tools, and more imporantl
 Assembly gave way to C, C gave way to Python, bare metal gave way to cloud. Each layer let us stop thinking about *how* to express the logic and start thinking at a higher level, perhaps a more simpler one. 
 Like every abstraction, it hides complexity and lets you stop thinking about certain things, it's the reason you probably you havne't had to remember a phone number since the 00s.
 
-Remember phonebooks? Yea how's the back pain...
+> Remember phonebooks? Yea how's the back pain...
 
 The second truth is that logic itself is the absolute zero of software, and the atomic "thing" underneath everything we do. 
 It doesn't matter if you express it in English, lambda calculus (shout out my boi Church), Rust or Python. 
