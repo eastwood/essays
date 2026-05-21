@@ -24,7 +24,7 @@ Maybe there's an argument to be made if software kills someone, a bug costs mill
 
 What makes this particularly insidious is that AI-generated output *looks* credible. This is the same dynamic that makes false news spread faster than true news, it's not that misinformation is obviously wrong, it's that it's plausible enough to believe at a glance. AI-generated code is similar. It compiles, it passes a quick read, it handles the obvious cases. But the bugs are in the edges, they always have been. The security holes are subtle, the errors only surface under conditions no one thought to test for, and how the hell is quality control meant to keep up?
 
-The MIT study found false stories reached people 6x faster than true ones. In software, maybe the equivalent is that broken code merges faster than it gets caught. When everyone is shipping AI-assisted code, the ecosystem fills with subtle, distributed failure, not catastrophic crashes that are easy to identify, but creeping unreliability that is hard to attribute and harder to fix.
+The MIT study found false stories reached people six times faster than true ones. In software, maybe the equivalent is that broken code merges faster than it gets caught. When everyone is shipping AI-assisted code, the ecosystem fills with subtle, distributed failure, not catastrophic crashes that are easy to identify, but creeping unreliability that is hard to attribute and harder to fix (see the decline of Github reliability since the age of copilot).
 
 ---
 
