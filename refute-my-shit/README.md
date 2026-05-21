@@ -48,4 +48,8 @@ The optimistic view depends on something that is easy to assume and dangerous to
 
 If the same actors generating low-quality output also control the validators, the asymmetry does not disappear — it just moves. A company that profits from engagement has no structural incentive to build a fact-checker that actually reduces engagement. A developer team under pressure to ship has no structural incentive to continue to run human validation validation layer, it will called a "bottleneck" and will be strategically removed.
 
+In 1971, Herbert Simon wrote:
+
+> "In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it."
+
 The question is not really whether AI *can* solve Brandolini's Law. It probably can, technically. The question is whether the conditions exist for it and whether we are up to the challenge to pay for it.
